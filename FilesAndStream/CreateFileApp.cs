@@ -9,7 +9,7 @@
 //{
 //    internal class CreateFileApp
 //    {
-//        static void Main(string[] args)
+//        static void Main()
 //        {
 //            FileStream fs = new FileStream("E:\\06Repos\\TrainingFiles\\CSharpTrainingFiles\\FilesAndStream\\bin\\Debug\\csharpfile.txt", FileMode.Create);
 //            fs.Close();
